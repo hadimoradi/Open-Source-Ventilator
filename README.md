@@ -4,7 +4,7 @@ Auto Ambubag is a device to provide the minimum requirement for the patient in t
 Auto Ambubag is suitable for various sizes of  Ambu bag. It scans the scale at the start time.
 
 
-![](https://github.com/hadimoradi/Open-Source-Ventilator/tree/master/Images/ventilator.jpg?raw=true "Title")
+![](https://raw.githubusercontent.com/hadimoradi/Open-Source-Ventilator/master/Images/ventilator.jpg?raw=true)
 
 
 ### Breathing Parameters 
