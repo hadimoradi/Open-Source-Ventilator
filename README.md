@@ -2,6 +2,11 @@
 Auto Ambubag is a device to provide the minimum requirement for the patient in the critical situation facing COVID-19.
 
 Auto Ambubag is suitable for various sizes of  Ambu bag. It scans the scale at the start time.
+
+
+![](https://github.com/hadimoradi/Open-Source-Ventilator/tree/master/Images/ventilator.jpg)
+
+
 ### Breathing Parameters 
 - #### Respiration Rate: 
      8-30 Respiration per minute 
